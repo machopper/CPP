@@ -1,10 +1,2 @@
-﻿  stdafx.cpp
-  VariablesAndTypes.cpp
-c:\users\mhopper\documents\cpp\repos\variablesandtypes\variablesandtypes\variablesandtypes.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\mhopper\documents\cpp\repos\variablesandtypes\variablesandtypes\variablesandtypes.cpp(38): warning C4309: 'initializing': truncation of constant value
-c:\users\mhopper\documents\cpp\repos\variablesandtypes\variablesandtypes\variablesandtypes.cpp(42): warning C4309: '=': truncation of constant value
-c:\users\mhopper\documents\cpp\repos\variablesandtypes\variablesandtypes\variablesandtypes.cpp(45): warning C4305: '=': truncation from 'int' to 'unsigned char'
-c:\users\mhopper\documents\cpp\repos\variablesandtypes\variablesandtypes\variablesandtypes.cpp(45): warning C4309: '=': truncation of constant value
-c:\users\mhopper\documents\cpp\repos\variablesandtypes\variablesandtypes\variablesandtypes.cpp(46): warning C4305: '=': truncation from 'int' to 'char'
-c:\users\mhopper\documents\cpp\repos\variablesandtypes\variablesandtypes\variablesandtypes.cpp(46): warning C4309: '=': truncation of constant value
+﻿  VariablesAndTypes.cpp
   VariablesAndTypes.vcxproj -> C:\Users\mhopper\Documents\CPP\repos\VariablesAndTypes\Debug\VariablesAndTypes.exe
