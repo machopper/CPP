@@ -1,2 +1,4 @@
-﻿  VariablesAndTypes.cpp
+﻿  stdafx.cpp
+  VariablesAndTypes.cpp
+  LINK : C:\Users\mhopper\Documents\CPP\repos\VariablesAndTypes\Debug\VariablesAndTypes.exe not found or not built by the last incremental link; performing full link
   VariablesAndTypes.vcxproj -> C:\Users\mhopper\Documents\CPP\repos\VariablesAndTypes\Debug\VariablesAndTypes.exe
