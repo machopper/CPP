@@ -14,6 +14,9 @@ public:
 		std::string last, 
 		int arbitrary);
 	~Person();
+	std::string GetName();
+	int GetNumber() { return arbitrarynumber;}
+	void SetNumber(int number) { arbitrarynumber = number; }
 };
 #endif
 
