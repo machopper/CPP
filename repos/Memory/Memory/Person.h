@@ -24,6 +24,7 @@ public:
 	bool operator<(int i) const;
 	friend bool operator<(int i, const Person& p);
 	void AddResource();
+	std::string GetResourceName() const { return pResource->GetName(); }
 };
 bool operator<(int i, const Person& p);
 #endif
